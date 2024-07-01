@@ -6,8 +6,8 @@
 
 HTML is a markup language that is used to create web pages. It is the standard markup language used for creating web pages and web applications. HTML stands for Hyper Text Markup Language. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
 
-|   Index | Name                                              | Level   | Project Link                                                                                            |
-|---------|---------------------------------------------------|---------|---------------------------------------------------------------------------------------------------------|
+|   Index | Name                                              | Level   | Project Link                                                                                           |
+|---------|---------------------------------------------------|---------|--------------------------------------------------------------------------------------------------------|
 |      01 | Building a Christmas Wish List Builder in React   | ★★☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-christmas-wish-list-builder-in-react)   |
 |      02 | Build a Simple Markdown Editor With Live Preview  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-simple-markdown-editor-with-live-preview)  |
 |      03 | Implement a Magnifying Glass Effect Using Canvas  | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-implement-a-magnifying-glass-effect-using-canvas)  |

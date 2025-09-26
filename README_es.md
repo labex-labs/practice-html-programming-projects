@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/NrasuEoAvSam.png">
 </div>
 
-HTML es la base del desarrollo web. Este Skill Tree presenta un camino de aprendizaje integral para dominar HTML. Es ideal para principiantes en desarrollo web, ofreciendo una hoja de ruta estructurada para entender la estructura de documentos, etiquetas y marcado semántico. A través de cursos prácticos sin video y ejercicios en un dinámico entorno de HTML, adquirirás experiencia real en la creación de páginas web bien estructuradas.
+Aprende HTML, la piedra angular del desarrollo web, con esta completa ruta de aprendizaje. Diseñada para principiantes, esta hoja de ruta proporciona un enfoque estructurado para dominar HTML. Los cursos interactivos de HTML cubren la estructura de documentos, etiquetas y marcado semántico. Gana experiencia en el mundo real completando ejercicios prácticos sin video en un entorno dinámico de HTML para crear páginas web bien estructuradas.
 
 ## Ejercicios
 

@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/NrasuEoAvSam.png">
 </div>
 
-HTML ist das Fundament der Webentwicklung. Dieser Skill Tree bietet einen umfassenden Lernpfad zur Beherrschung von HTML. Er ist ideal für Anfänger in der Webentwicklung und bietet eine strukturierte Roadmap, um die Dokumentstruktur, Tags und semantische Auszeichnung zu verstehen. Durch praktische, nicht-videobasierte Kurse und Übungen in einem dynamischen HTML-Spielplatz sammeln Sie praktische Erfahrungen in der Erstellung gut strukturierter Webseiten.
+Lernen Sie HTML, den Grundstein der Webentwicklung, mit diesem umfassenden Lernpfad. Dieser Fahrplan wurde für Anfänger entwickelt und bietet einen strukturierten Ansatz zur Beherrschung von HTML. Die interaktiven HTML-Kurse behandeln Dokumentstruktur, Tags und semantisches Markup. Sammeln Sie praktische Erfahrungen, indem Sie praktische Übungen ohne Video in einem dynamischen HTML-Playground absolvieren, um gut strukturierte Webseiten zu erstellen.
 
 ## Übungen
 
